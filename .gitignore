@@ -3,3 +3,11 @@
 /3_Mapas_Cotacao
 
 program_monticelli.xlsx
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Editor / office lock files
+.~lock.*
